@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-<h3 align="center">Welcome to my GitHub</h3>
+<h3 align="center">...</h3>
 
 <h3 align="left">Languages and Tools:</h3>
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
